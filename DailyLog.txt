@@ -1,0 +1,10 @@
+January 22nd, 2026
+
+Administrative Tasks: I sent my completed safety form and WPL transcript to Andrea for onboarding. 
+Hopefully once all of the documents are processed, I will have access to the lab!
+
+Technical Tasks: From 1:30 PM to 5:30 PM today I worked on getting started with R. I installed the latest version for Windows and the R-extension package on VS Code. 
+I have been able to run most commands, but I'm having some difficulty downloading certain packages and may consider switching to R Studio. Mostly I familiarized myself with 
+the different data structures (vector, matrix, list), syntax for basic arithmetic, and operators. Compared to other languages, R seems much more flexible in terms of variable types.
+
+Future Plans: I am hoping to work in the lab next week, where I plan to aid with simple tasks and continue learning R through a more problem-solving approach (today was mostly reading about the language).
