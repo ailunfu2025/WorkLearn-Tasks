@@ -8,3 +8,10 @@ I have been able to run most commands, but I'm having some difficulty downloadin
 the different data structures (vector, matrix, list), syntax for basic arithmetic, and operators. Compared to other languages, R seems much more flexible in terms of variable types.
 
 Future Plans: I am hoping to work in the lab next week, where I plan to aid with simple tasks and continue learning R through a more problem-solving approach (today was mostly reading about the language).
+
+January 29th, 2026
+
+Technical Tasks: From 2:00 PM to 5:30 PM today, I received instructions from Mao regarding the sanding process for the tree cores. Then I practiced sanding the cores using the different grits and labeling 
+them with markers. I also learned about the different tools available in the lab (like the microscope!).
+
+Future Plans: I have contacted Lizzie about some computing tasks, and hopefully will improve my sanding skills for next time!
