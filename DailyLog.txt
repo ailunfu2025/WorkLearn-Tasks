@@ -21,4 +21,10 @@ Administrative Tasks: I met with Lizzie and Victor at 12:30 PM to discuss the ne
 
 Technical Tasks: I read through the entire article to understand where the data used to compute XBASE products is sourced from, and gain a better understanding of how FLUXCOM-X is meant to produce different sets of outputs with different inputs and training parameters. I compiled a brief summary of these findings and uploaded them to GitHub.
 
+~ February 15th, 2026 ~
+
+Technical Tasks: I worked from home during the reading break, from 4:00PM to 7:00PM. I started off by installing RStudio and the necessary packages to work with NetCDF files. Then I worked with one specific set of data (ET, 2001) and created a simple scatter plot against time. I plan to try plotting GPP and NEE in the future, and find a way to access the data without downloading to my computer.
+
+
+
 
