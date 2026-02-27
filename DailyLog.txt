@@ -25,6 +25,8 @@ Technical Tasks: I read through the entire article to understand where the data 
 
 Technical Tasks: I worked from home during the reading break, from 4:00PM to 7:00PM. I started off by installing RStudio and the necessary packages to work with NetCDF files. Then I worked with one specific set of data (ET, 2001) and created a simple scatter plot against time. I plan to try plotting GPP and NEE in the future, and find a way to access the data without downloading to my computer.
 
+~ February 27th, 2026 ~
 
+Technical Tasks: I worked from home, from 4:00PM to 8:00PM. I downloaded data for GPP and NEE from 2001-2003 and started revising the code to loop over multiple locations, years, and specific range of days. The method is relatively similar to ET, but I double checked that the data was being extracted accurately using the preview on the XBASE site. Units and proper labels were added to the plot. I might work on saving the data for processing or updating the plot to make it more comprehensive.
 
 
