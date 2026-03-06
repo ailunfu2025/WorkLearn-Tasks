@@ -29,4 +29,6 @@ Technical Tasks: I worked from home during the reading break, from 4:00PM to 7:0
 
 Technical Tasks: I worked from home, from 4:00PM to 8:00PM. I downloaded data for GPP and NEE from 2001-2003 and started revising the code to loop over multiple locations, years, and specific range of days. The method is relatively similar to ET, but I double checked that the data was being extracted accurately using the preview on the XBASE site. Units and proper labels were added to the plot. I might work on saving the data for processing or updating the plot to make it more comprehensive.
 
+~ March 5th, 2026 ~
 
+Technical Tasks: I previously uploaded an initial version of the code to GitHub. Today, I worked on saving the GPP and NEE flux data into a data frame so the info can be retained for later processing of different metrics. I also started working on creating a 10-day moving average plot, and determining the first and last day when flux > 0. Planning to revise code to plot subsets from dataframe and use packages to generate more detailed plots.
