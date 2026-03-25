@@ -32,3 +32,12 @@ Technical Tasks: I worked from home, from 4:00PM to 8:00PM. I downloaded data fo
 ~ March 5th, 2026 ~
 
 Technical Tasks: I previously uploaded an initial version of the code to GitHub. Today, I worked on saving the GPP and NEE flux data into a data frame so the info can be retained for later processing of different metrics. I also started working on creating a 10-day moving average plot, and determining the first and last day when flux > 0. Planning to revise code to plot subsets from dataframe and use packages to generate more detailed plots.
+
+~ March 24th, 2026 ~
+
+Technical Tasks: From 8:00 PM to 12:00 AM, I built on the previous code saving values to the data frame and looped it over multiple years + sites. Also worked on adding a moving average to the plot and thinking of overlaying it on top of raw data. Lastly did some documentation on the code and verified functionality for different test cases.
+
+~ March 25th, 2026 ~
+
+Technical Tasks: From 7:00 AM to 11:00 AM, I worked on the plot details and ended up stacking them in one column for easier viewing across many years. Also found a library for making interactive plots so created separate script for that. Lastly finalized documentation and uploaded to GitHub.
+
