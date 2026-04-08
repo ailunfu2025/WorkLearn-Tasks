@@ -41,3 +41,7 @@ Technical Tasks: From 8:00 PM to 12:00 AM, I built on the previous code saving v
 
 Technical Tasks: From 7:00 AM to 11:00 AM, I worked on the plot details and ended up stacking them in one column for easier viewing across many years. Also found a library for making interactive plots so created separate script for that. Lastly finalized documentation and uploaded to GitHub.
 
+~ April 7th, 2026 ~
+
+From 9:00 AM to 10:00 AM and 3:30 PM to 6:30 PM, I worked on modifying the previous script to perform GSL estimation from NEE flux data. I tried both methods of finding when the moving average crosses the NEE = 0 threshold and finding the first/last five days in a row where NEE < 0. Now I am planning to work on producing a plot which shows the GSL for different years.
+
