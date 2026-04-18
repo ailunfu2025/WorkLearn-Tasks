@@ -45,3 +45,10 @@ Technical Tasks: From 7:00 AM to 11:00 AM, I worked on the plot details and ende
 
 From 9:00 AM to 10:00 AM and 3:30 PM to 6:30 PM, I worked on modifying the previous script to perform GSL estimation from NEE flux data. I tried both methods of finding when the moving average crosses the NEE = 0 threshold and finding the first/last five days in a row where NEE < 0. Now I am planning to work on producing a plot which shows the GSL for different years.
 
+~ April 14th, 2026 ~
+
+I had a meeting with Mao at 2:00 PM to get training on tree ring measurement. Then from 2:30 to 4:00 PM I worked on looking into literature methods for estimating GSL.
+
+~ April 17th, 2026 ~
+
+From 4:00 to 6:00 PM I worked on doing more research into GSL estimation methods. I found that moving averages are very common, and most authors seem to encourage the use of multiple thresholds or methods and cross-validating results. Then I assembled the information into a table on the lab wiki.
