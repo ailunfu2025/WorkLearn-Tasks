@@ -56,3 +56,7 @@ From 4:00 to 6:00 PM I worked on doing more research into GSL estimation methods
 ~ April 27th, 2026 ~
 
 From 11:00 AM to 11:30 AM I had a meeting with Tess to learn about current tasks for the arboretum project. Then from 11:30 to 12:30 I read through some of the literature in more detail to understand why GPP was sometimes used over NEP and how some GSL estimation methods might not be suited to certain ecosystems. Finally, I spent time from 2:00 PM to 3:00 PM looking through documents from the arboretum repo and the resources Tess provided.
+
+~ April 29th, 2026 ~
+
+From 11:30 AM to 1:30 PM I worked on going through the spreadsheet for provenance data for trees from the arboretum. I plan to go through the arboretum's plant search and specimen collection first to gather more information, and then try mapping qualitiative data to coordinates.
