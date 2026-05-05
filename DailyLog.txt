@@ -60,3 +60,11 @@ From 11:00 AM to 11:30 AM I had a meeting with Tess to learn about current tasks
 ~ April 29th, 2026 ~
 
 From 11:30 AM to 1:30 PM I worked on going through the spreadsheet for provenance data for trees from the arboretum. I plan to go through the arboretum's plant search and specimen collection first to gather more information, and then try mapping qualitiative data to coordinates.
+
+~ May 3rd, 2026 ~
+
+From 2:30 PM to 6:30 PM, I am going through the spreadsheet and double-checking the arboretum's plant search for any additional provenance information! I notice that sometimes the placenames provided are kind of old so I'm working on finding a resource for that. In the meantime, I spent most of the time translating qualitative descriptions to quantitative data using Google Earth. Also reached out to update Victor about the tasks I'm working on this summer.
+
+~ May 4th, 2026 ~
+
+From 11:30 AM to 12:30 PM, and 2:30 PM to 5:30 PM, I managed to go through all of the rows in the spreadsheet and fill out coordinate information whenever I had a sufficient description. I color-coded rows with overly vague/no info and updated Lizzie and Ailene about the progress. Now waiting to resolve those cases before trying to map on R.
