@@ -68,3 +68,15 @@ From 2:30 PM to 6:30 PM, I am going through the spreadsheet and double-checking 
 ~ May 4th, 2026 ~
 
 From 11:30 AM to 12:30 PM, and 2:30 PM to 5:30 PM, I managed to go through all of the rows in the spreadsheet and fill out coordinate information whenever I had a sufficient description. I color-coded rows with overly vague/no info and updated Lizzie and Ailene about the progress. Now waiting to resolve those cases before trying to map on R.
+
+~ May 5th, 2026 ~
+
+From 2:30 PM to 6:30 PM, I first started by reviewing the protocol for the core measurement and worked with my first images. 
+
+~ May 6th, 2026 ~
+
+Today from 1:00 PM to 3:00 PM I went to the growth chamber to collect data, which took a little longer than expected since this was my first time! 
+
+~ May 7th, 2026 ~
+
+From 11:30 AM to 1:30 PM and from 4:00 PM to 6:00 PM, I worked on the core measurement and managed to complete 7 so far. Will update excel log with details tomorrow, and still waiting on response to arboretum project. Also pushed updated germination data to repo.
