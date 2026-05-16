@@ -80,3 +80,19 @@ Today from 1:00 PM to 3:00 PM I went to the growth chamber to collect data, whic
 ~ May 7th, 2026 ~
 
 From 11:30 AM to 1:30 PM and from 4:00 PM to 6:00 PM, I worked on the core measurement and managed to complete 7 so far. Will update excel log with details tomorrow, and still waiting on response to arboretum project. Also pushed updated germination data to repo.
+
+~ May 11th, 2026 ~
+
+From 12:00 PM to 4:00 PM, I worked on some core measurement. Then I reviewed the literature methods for GSL estimation and worked on initially calculating with 50%, 25%, and 10% of max GPP thresholds, using both a moving average and also smoothing splines. Based on initial tests, it seems like the threshold impacts GSL estimation much more than the smoothing method. 
+
+~ May 12th, 2026 ~
+
+From 2:00 PM to 6:00 PM, I continued working on the GSL estimation script and did some core measurement. I made some modifications to note if proper start and end dates for GSL could not be calculated (in some locations, NEE < 0 for basically the entire year, for instance). I also plotted the GPP estimations, and want to perform tests with different locations to ensure the robustness of these methods. Later will loop these processes over multiple years/locations.
+
+~ May 13th, 2026 ~
+
+From 11:00 AM to 1:00 PM, I worked on core measurement and started to look through the Gaussian Process readings. Then I worked on extracting PRISM climate data for the Boston coordinates, from 3:00 PM to 5:00 PM. While I think most trees will fall within the same grid, I may need to double check this. 
+
+~ May 14th, 2026 ~
+
+Today (from 2:00 to 6:00 PM) I worked on some more core measurement and finalized some initial code for extracting the PRISM data and storing it to a dataframe. I am still working on finalizing provenance coordinates for other climate data, but I started looking into reading data from an excel file and storing in a dataframe for processing.
