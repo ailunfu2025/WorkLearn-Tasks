@@ -96,3 +96,9 @@ From 11:00 AM to 1:00 PM, I worked on core measurement and started to look throu
 ~ May 14th, 2026 ~
 
 Today (from 2:00 to 6:00 PM) I worked on some more core measurement and finalized some initial code for extracting the PRISM data and storing it to a dataframe. I am still working on finalizing provenance coordinates for other climate data, but I started looking into reading data from an excel file and storing in a dataframe for processing.
+
+~ May 19th, 2026 ~
+Started the day off (11:00 AM to 1:00 PM) by performing a closer examination of the GSL estimation and figured out why I was getting some irregular results. I came up with a plan to modify the thresholds for NEE and check for consecutive days crossing the threshold to account for fluctuations. Later (5:00 PM to 7:00 PM) I worked on an initial interactive map for the arboretum trees. Planning to add filters for the map data soon.
+
+~ May 20th, 2026 ~
+I went to the growth chamber today (10:00 AM to 12:30 PM) to water and count the germinants. Then did some tree core measurement later in the day and uploaded the new germinant data (5:00 PM to 6:30 PM).
