@@ -102,3 +102,9 @@ Started the day off (11:00 AM to 1:00 PM) by performing a closer examination of 
 
 ~ May 20th, 2026 ~
 I went to the growth chamber today (10:00 AM to 12:30 PM) to water and count the germinants. Then did some tree core measurement later in the day and uploaded the new germinant data (5:00 PM to 6:30 PM).
+
+~ May 21st, 2026 ~
+From 2:00 PM to 5:00 PM, I worked on adjusting the interactive map for the arboretum trees by adding filters, and reviewed the XBASE article for additional details on methodology to try and examine whether GPP/NEE was more suitable for GSL. Then from 6:00 PM to 7:00 PM, I looked into some different methods for extracting PRISM data more efficiently.
+
+~ May 22nd, 2026 ~
+From 9:00 AM to 12:00 PM, I just worked on some core measurement and finding more provenance info based on updates from Ailene.
