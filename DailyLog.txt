@@ -108,3 +108,24 @@ From 2:00 PM to 5:00 PM, I worked on adjusting the interactive map for the arbor
 
 ~ May 22nd, 2026 ~
 From 9:00 AM to 12:00 PM, I just worked on some core measurement and finding more provenance info based on updates from Ailene.
+
+~ May 25th, 2026 ~
+From 6:00 PM to 8:00 PM, I worked on core measurement. Then I worked on uploading the interactive map for the provenance data, and trying to zoom in on specific regions for the static map from 9:00 PM to 11:00 PM.
+
+~ May 27th, 2026 ~
+I just did a bit of core measurement and research for GSL from 10:00 AM to 12:00 PM. I found a few articles detailing methods to work around fluctuations and implementation of dynamics thresholds.
+
+~ May 31st, 2026 ~
+From 11:00 AM to 12:00 PM, I worked on replying to some emails and creating my presentation for the lab meeting! Then from 4:00 PM to 7:00 PM, I read through the article for the CRU data to understand observation site distribution over the years, and collected the accession dates to produce a histogram for the cored trees.
+
+~ June 3rd, 2026 ~
+From 8:00 AM to 11:00 AM, I went to the growth chamber to collect data for the germination experiment, and uploaded to GitHub. Then from 3:00 PM to 4:00 PM, I attended the lab meeting to learn about what everyone's May activities were like.
+
+~ June 4th, 2026 ~
+I attended another meeting from 1:00 PM to 3:00 PM to watch the video on Gaussian Processes.
+
+~ June 5th, 2026 ~
+From 12:00 PM to 1:00 PM I had a meeting with Victor to learn how to use the lab server and also discuss the application of GPs to the arboretum project. Also discussed next steps for GSL estimation. From 6:00 PM to 9:00 PM, I worked on tree core measurement.
+
+~ June 6th, 2026 ~
+Today from 4:00 PM to 6:00 PM I just did some studying on multivariate normal distributions and Gaussian Processes. Planning to work on the GP exercises soon.
