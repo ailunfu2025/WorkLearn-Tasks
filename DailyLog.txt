@@ -129,3 +129,6 @@ From 12:00 PM to 1:00 PM I had a meeting with Victor to learn how to use the lab
 
 ~ June 6th, 2026 ~
 Today from 4:00 PM to 6:00 PM I just did some studying on multivariate normal distributions and Gaussian Processes. Planning to work on the GP exercises soon.
+
+~ June 8th, 2026 ~
+I continued studying GPs from 9:00 AM to 11:00 AM, looking through Michael Betancourt's case study and examining how to implement them in R.
