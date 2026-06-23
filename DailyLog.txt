@@ -147,3 +147,6 @@ From 1:00 PM to 2:00 PM, I had a meeting with Victor to discuss the details for 
 
 ~ June 17th 2026 ~
 Today from 9:00 AM to 12:00 PM I was collecting data for the germination experiment and watering the plants. Then from 3:00 PM to 4:00 PM I attended a lab meeting to learn about inquiry letters for grad school and networking.
+
+~ June 19th, 2026 ~
+I worked on computing GDD from the PRISM data and generating a plot from 3:00 PM to 5:00 PM. Ended the day with some tree core measurement from 8:00 PM to 10:00 PM!
