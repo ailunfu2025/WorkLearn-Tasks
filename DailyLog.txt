@@ -150,3 +150,28 @@ Today from 9:00 AM to 12:00 PM I was collecting data for the germination experim
 
 ~ June 19th, 2026 ~
 I worked on computing GDD from the PRISM data and generating a plot from 3:00 PM to 5:00 PM. Ended the day with some tree core measurement from 8:00 PM to 10:00 PM!
+
+~ June 24th, 2026 ~
+From 10:00 AM to 1:00 PM I worked on going through the HUH site to look for data on the missing provenance cores, and created some plots for changes in temp and precipitation in the provenances over time.
+
+~ June 28th, 2026 ~
+I worked on writing the R script for pulling Herbaria data from GBIF and filtering results from 12:00 PM to 4:00 PM. Collected all the localities for cores based on country of origin and collector.
+
+~ June 29th, 2026 ~
+From 3:00 PM to 5:00 PM I watched some videos on linear regression and tried some exercises! Then set up the initial Stan code.
+
+~ June 30th, 2026 ~
+I just worked on some tree core measurements from 2:00 PM to 4:00 PM today.
+
+~ July 1st, 2026 ~
+From 10:00 AM to 12:30 PM I went down to the growth chamber to collect data for the germination experiment! Then from 3:00 PM to 4:30 I set up some simulated climate and tree ring data by fixing initial parameters.
+
+~ July 2nd, 2026 ~
+I worked on running and troubleshooting the model from 9:00 AM to 11:30 AM...Victor helped me with resolving an error afterward during our 1:00-1:30 PM meeting and it seems to be working now!
+
+~ July 3rd, 2026 ~
+I continued trying to extract GBIF data from all herbaria this time from 9:00 AM to 10:00 AM, focusing on the ones with a few localities for now. Also worked on some tree core measurement from 2:00 PM to 4:00 PM.
+
+~ July 6th, 2026 ~
+Revised my model slightly based on Victor's feedback and uploaded initial results to Github from 11:00 AM to 12:30 PM. Then from 2:00 PM to 4:30 PM I converted the locality info to coordinates using Google Earth.
+
