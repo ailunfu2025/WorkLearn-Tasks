@@ -229,4 +229,5 @@ I set up the simulated data from 2:00 PM to 5:00 PM and ran the model multiple t
 ~ August 5th, 2026 ~
 Since the returned GDD slopes were slightly less than the test parameters, I followed Victor's suggestion of running the model with a different number of years and also taking a look at the intercepts (10:00 AM to 12:00 PM). I also tried varying the test parameters and priors to see if there was any noticeable difference in the result.
 
-
+~ August 7th, 2026 ~
+I worked on fitting the model with real GDD data today from 11:30 AM to 1:20 PM. I made some modifications to the priors after noticing most of the slope predictions to be negative, and also tried with a longer time range (10 years).
