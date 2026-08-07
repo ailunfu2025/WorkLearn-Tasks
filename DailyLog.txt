@@ -204,3 +204,29 @@ Attended a lab meeting today from 3:00 PM to 4:30 PM to learn about tree growth!
 
 ~ July 23rd, 2026 ~
 Worked on some core measurement from 9:00 AM to 11:30 AM today.
+
+~ July 24th, 2026 ~
+From 10:00 AM to 12:00 PM, I worked on revising the GPP flux extraction code to store values in a data frame, and implementing plots for smoothed curves. Then from 2:00 PM to 4:00 PM I scaled the code to work over multiple years and sites.
+
+~ July 27th, 2026 ~
+I continued with the GSL project from 12:00 PM to 3:00 PM to extract estimated GSL using three different smoothing methods and five threshold, and generated some plots for the results.
+
+~ July 28th, 2026 ~
+From 9:00 AM to 12:30 PM, I worked on some core measurement.
+
+~ July 29th, 2026 ~
+From 10:00 AM to 12:00 PM, I collected some data for the germination experiment, and also had a meeting with Victor from 2:00 PM to 2:30 PM. Then I did some core measurement from 4:00 PM to 5:30 PM.
+
+~ July 31st, 2026 ~
+I edited the code from 10:00 AM to 12:00 PM for incorporating GDD data in the simulated ring widths script and actual core data. Also got started modifying the stan model.
+
+~ August 2nd, 2026 ~
+From 10:00 AM to 12:30 PM, I ran the simulated data on the model version with intercept by species (CRU data only) and updated the GitHub. Then I finished the model to account for GDD data and looked briefly into partial pooling.
+
+~ August 4th, 2026 ~
+I set up the simulated data from 2:00 PM to 5:00 PM and ran the model multiple times to see if it could return the parameters. From 5:00 PM to 6:00 PM, I also finished most of the tree core measurements (only uncertain ones left).
+
+~ August 5th, 2026 ~
+Since the returned GDD slopes were slightly less than the test parameters, I followed Victor's suggestion of running the model with a different number of years and also taking a look at the intercepts (10:00 AM to 12:00 PM). I also tried varying the test parameters and priors to see if there was any noticeable difference in the result.
+
+
