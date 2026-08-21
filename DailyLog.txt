@@ -231,3 +231,24 @@ Since the returned GDD slopes were slightly less than the test parameters, I fol
 
 ~ August 7th, 2026 ~
 I worked on fitting the model with real GDD data today from 11:30 AM to 1:20 PM. I made some modifications to the priors after noticing most of the slope predictions to be negative, and also tried with a longer time range (10 years).
+
+~ August 10th, 2026 ~
+I worked on running the model with multiple year ranges and modified priors from 10:00 AM to 12:00 PM. From 2:00 PM to 3:30 PM, I had a meeting with Victor about changing to a partial pooling model.
+
+~ August 11th, 2026 ~
+From 10:00 AM to 12:30 PM, I updated GitHub with some plots of the original model performance, and also worked on a partial pooling model.
+
+~ August 12th, 2026 ~
+I went to check on the germinants from 10:00 AM to 11:15 AM, then checked over some core measurements until 12:00 PM.
+
+~ August 14th, 2026 ~
+From 9:00 AM to 12:30 PM, I worked on simulating data for the partial pooling model and checking how well it was returning the parameters.
+
+~ August 15th, 2026 ~
+Just did some core measurements for the PARA stand today from 12:00 PM to 2:00 PM.
+
+~ August 16th, 2026 ~
+Studying for finals, so mostly did some core measurements from 4:00 PM to 7:00 PM.
+
+~ August 20th, 2026 ~
+From 1:00 PM to 3:00 PM, I did more core measurement and tried diagnosing the model issues by modifying adapt_delta. Then from 9:00 PM to 11:00 PM, I worked on generating some pair plots to troubleshoot divergences and looked into non-centered parameterizations.
