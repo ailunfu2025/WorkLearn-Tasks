@@ -253,11 +253,11 @@ Studying for finals, so mostly did some core measurements from 4:00 PM to 7:00 P
 ~ August 20th, 2026 ~
 From 1:00 PM to 3:00 PM, I did more core measurement and tried diagnosing the model issues by modifying adapt_delta. Then from 9:00 PM to 11:00 PM, I worked on generating some pair plots to troubleshoot divergences and looked into non-centered parameterizations.
 
-~ August 22nd, 2026 ~
+~ August 24th, 2026 ~
 From 2:00 PM to 5:30 PM, I read through a case study on resolving divergences and modified the model to use a non-centered parameterization for alpha and beta_GDD. I ran the model multiple times and examined some diagnostic plots.
 
-~ August 24th, 2026 ~
+~ August 26th, 2026 ~
 I did some core measurement from 9:00 AM to 12:00 PM today.
 
-~ August 27, 2026~
+~ August 27th, 2026 ~
 From 9:00 PM to 11:30 PM, I tried modifying the priors to be more realistic and match the growth shown in the real data. However, after multiple runs, there are still some divergences which could indicate a further issue.
