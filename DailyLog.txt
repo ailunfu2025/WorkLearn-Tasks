@@ -264,3 +264,6 @@ From 9:00 PM to 11:30 PM, I tried modifying the priors to be more realistic and 
 
 ~ September 5th, 2026 ~
 I worked on modifying the script for generating ring width plots, and did some core measurement from 10:00 AM to 1:00 PM.
+
+~ September 10th, 2026 ~
+Just worked on some core measurement from 7:00 PM to 10:30 PM today.
