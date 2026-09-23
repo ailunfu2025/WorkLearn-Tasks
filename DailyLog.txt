@@ -267,3 +267,15 @@ I worked on modifying the script for generating ring width plots, and did some c
 
 ~ September 10th, 2026 ~
 Just worked on some core measurement from 7:00 PM to 10:30 PM today.
+
+~ September 14th, 2026 ~
+From 5:00 PM to 6:15 PM, I looked over some of the GP resources and tried the exercises from gpme repo.
+
+~ September 17th, 2026 ~
+I worked on the GP model today from 4:00 PM to 5:30 PM for a single species, trying to figure out the indexing for each tree.
+
+~ September 18th, 2026 ~
+From 3:00 PM to 4:30 PM, I worked on modifying the code for simulation and adding an initial iteration of the GP model to the repo, which I will continue to modify with Victor's feedback.
+
+~ September 19th, 2026 ~
+I worked on core measurement from 5:00 PM to 8:00 PM today.
