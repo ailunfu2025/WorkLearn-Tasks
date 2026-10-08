@@ -279,3 +279,18 @@ From 3:00 PM to 4:30 PM, I worked on modifying the code for simulation and addin
 
 ~ September 19th, 2026 ~
 I worked on core measurement from 5:00 PM to 8:00 PM today.
+
+~ September 25th, 2026 ~
+From 4:00 PM to 6:00 PM, I worked on writing an R script for simulating ring width data for a single species, with the GP included.
+
+~ September 28th, 2026 ~
+I updated the GitHub with the updated GP stan model and simulation script, and also tried to troubleshoot the ESS warnings from 11:00 AM to 12:30 PM.
+
+~ October 4th, 2026 ~
+I worked on some core measurement for PARA from 2:00 PM to 5:30 PM today.
+
+~ October 6th, 2026 ~
+From 1:00 PM to 2:30 PM, I had a meeting with Victor to fix an issue with my simulation script and also read the paper for the lab meeting.
+
+~ October 7th, 2026 ~
+I attended the lab meeting for discussing the CP rate vs. duration paper from 3:00 PM to 4:00 PM.
